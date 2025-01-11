@@ -13,6 +13,7 @@ assignees: ''
 - 公開日：yyyy/mm/dd
 - リンク：
   - 論文 (arXiv)：
+  - illuminate：
   - コード (GitHub)：
 
 ## Research Question
