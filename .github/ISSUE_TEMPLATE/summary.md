@@ -15,6 +15,7 @@ assignees: ''
   - 論文 (arXiv)：
   - illuminate：
   - コード (GitHub)：
+  - Connected Papers：Link 
 
 ## Research Question
 
